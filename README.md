@@ -1,4 +1,6 @@
 # Baseline-vs.-FAISS-vs.-RL-Re-ranker
+<img width="862" height="300" alt="لقطة شاشة 2026-02-19 121647" src="https://github.com/user-attachments/assets/dd41bc5b-0a94-4739-b999-bc76a27163db" />
+<img width="554" height="269" alt="لقطة شاشة 2026-02-19 121130" src="https://github.com/user-attachments/assets/875e230f-ed96-4343-b008-b71b9e09478f" />
 
 🚀 تحسين استرجاع المعلومات باستخدام التعلم المعزز (Reinforcement Learning)
 
